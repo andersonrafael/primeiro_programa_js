@@ -71,9 +71,9 @@ th{
 }
 
 label{
-	color: #555;
+	color: #666;
 	display: block;
-	margin-bottom: .2em;
+	margin-bottom: .8em;
 }
 
 .campo{
@@ -105,7 +105,7 @@ button{
 	margin: 0;
 	margin-top: -3px;
 	color: #fff;
-	background-color:blue;
+	background-color:green;
 	border-color: #04324c;
 	width: 20%;
 	display: block;
